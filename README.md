@@ -1,2 +1,2 @@
 # Napakalaki-Ruby
-Repositorio para Práctica de PDOO en Ruby
+Repositorio para Práctica de PDOO(Programacion orientada a objetos) en Ruby
